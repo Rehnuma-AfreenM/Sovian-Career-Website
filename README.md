@@ -1,2 +1,2 @@
-# Sovian-carrers-websitw
-A Careers website for Sovian
+# Sovian-careers-website
+A Careers website for people to find jobs.
